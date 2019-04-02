@@ -1,0 +1,4 @@
+val accuracy
+
+teacher 0.9949 183epoch
+pure student 0.9667 87epoch
